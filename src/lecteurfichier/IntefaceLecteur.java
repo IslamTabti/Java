@@ -13,4 +13,6 @@ public interface IntefaceLecteur {
     boolean Ouvrir(String nom);
     void LireFichier();
     void afficher();
+    
+    
 }
